@@ -20,6 +20,7 @@ You have 4 ads with different click-through rates (CTRs).
 • Analyze which method converges faster and more accurately.
 
 <br>
+
 3. Smart Vacuum Cleaner – Spot Cleaning Strategy (Anchor Example)
 Your smart vacuum cleaner operates in a room with 5 predefined dirty zones. Each time it starts
 cleaning, it must choose one spot to begin with. The likelihood of dirt (and hence reward) in
@@ -31,6 +32,7 @@ each zone varies.
 normal or Bernoulli distribution).
 
 <br>
+
 Your Tasks:
 • Implement both ε-Greedy and Softmax strategies for 1000 episodes.
 • Track and compare:
