@@ -10,14 +10,17 @@ Travel). The reward is 1 if the user clicks, 0 otherwise.
 • Implement ε-Greedy and Softmax strategies.
 • Simulate user preferences with predefined means.
 • Plot and compare action distributions and average rewards.
+
 <br>
-2. Ad Placement on a Website
+
+3. Ad Placement on a Website
 You have 4 ads with different click-through rates (CTRs).
 • Use ε-Greedy and Softmax to identify the best ad.
 • Simulate for 2000 steps.
 • Analyze which method converges faster and more accurately.
+
 <br>
-3. Smart Vacuum Cleaner – Spot Cleaning Strategy (Anchor Example)
+5. Smart Vacuum Cleaner – Spot Cleaning Strategy (Anchor Example)
 Your smart vacuum cleaner operates in a room with 5 predefined dirty zones. Each time it starts
 cleaning, it must choose one spot to begin with. The likelihood of dirt (and hence reward) in
 each zone varies.
@@ -35,7 +38,7 @@ Your Tasks:
 ◦ Average reward over time.
 • Which strategy learns to target the dirtiest zones more effectively?
 <br>
-4. LLM Integration Task
+6. LLM Integration Task
 Use ChatGPT or any LLM to:
 • Ask the LLM to critique their code (e.g., “How can I make my ε-Greedy implementation
 more efficient?”)
